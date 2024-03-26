@@ -20,3 +20,11 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+# 代理修正
+DOMAIN-SUFFIX,vproxy.us
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,whrq.whoer.net
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,intix.cloud

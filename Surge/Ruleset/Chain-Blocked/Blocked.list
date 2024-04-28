@@ -25,6 +25,12 @@ DOMAIN-SUFFIX,githubusercontent.com
 # > Amazon
 DOMAIN-SUFFIX,cloudfront.net
 
+# > Microsoft Edge
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,msedge.api.cdp.microsoft.com
+
 # > 其他
 DOMAIN-SUFFIX,vproxy.us
 DOMAIN-SUFFIX,okx.com

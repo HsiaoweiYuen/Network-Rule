@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,guluapp.cn
 DOMAIN-SUFFIX,gulufenfa.com
 DOMAIN-SUFFIX,app-locks.com
 DOMAIN-SUFFIX,amap.com
+# IP-CIDR,115.236.153.253/32,no-resolve
 IP-CIDR,115.236.153.234/32,no-resolve
 IP-CIDR,115.236.153.246/32,no-resolve
 IP-CIDR,103.192.208.120/32,no-resolve
@@ -12,4 +13,3 @@ IP-CIDR,103.192.208.77/32,no-resolve
 IP-CIDR,45.124.79.217/32,no-resolve
 IP-CIDR,45.124.79.221/32,no-resolve
 IP-CIDR,103.192.208.71/32,no-resolve
-IP-CIDR,115.236.153.253/32,no-resolve

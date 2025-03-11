@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 # 代理修正
 # > Amazon
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,mtalk.google.com  // Firebase Cloud Messaging
 
 # > Microsoft Edge
 DOMAIN,edge.activity.windows.com

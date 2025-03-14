@@ -1,5 +1,5 @@
 # Apple 地图
 DOMAIN-SUFFIX,ls.apple.com // Apple Maps
-DOMAIN-SUFFIX,node.helloblock.net // HelloBlock Sub
+DOMAIN-SUFFIX,sub.helloblock.net // HelloBlock Sub
 # FCM
 # DOMAIN-SUFFIX,mtalk.google.com  // Firebase Cloud Messaging
